@@ -33,6 +33,7 @@
         </li>
         <li><a id="promotions" href="#promotions">Promotions</a></li>
         <li><a id="portfolio" href="#portfolio">Portfolio</a></li>
+        <li><a id="contact" href="#portfolio">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
