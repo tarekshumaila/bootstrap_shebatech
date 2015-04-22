@@ -1,7 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
 .font{font-family: 'Poiret One', cursive;}
 #navigationbar{height:157px;}
-.nav li a{height:145px; width: 127px;}
+.nav > li > a{height:145px; width: 127px;}
 .navbar-brand img{width: 267px;}
-#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;
-    background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
+#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;}
