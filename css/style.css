@@ -4,9 +4,10 @@
 .nav > li > a{height:111px; width: 127px;padding:0;line-height: 111px;font-size:20px;color: white;}
 .navbar-default .navbar-nav>.active>a{background-color:white;}
 .navbar-brand img{width: 220px;}
-#home{background-image:url('../svg/menu/2.png');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 55px;}
-#aboutus{background-image:url('../svg/menu/3.png');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 46.5px;}
-#services{background-image:url('../svg/menu/4.png');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 33.5px;}
-#promotions{background-image:url('../svg/menu/5.png');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 18px;}
-#portfolio{background-image:url('../svg/menu/6.png');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 30px;}
+#home{background-image:url('../svg/menu/1.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 55px;}
+#aboutus{background-image:url('../svg/menu/2.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 46.5px;}
+#services{background-image:url('../svg/menu/3.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 33.5px;}
+#promotions{background-image:url('../svg/menu/4.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 18px;}
+#portfolio{background-image:url('../svg/menu/5.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 30px;}
+#contact{background-image:url('../svg/menu/6.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 30px;}
 #container {padding: 0;}
