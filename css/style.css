@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
 .font{font-family: 'Poiret One', cursive;}
 #navigationbar{height:111px;background-color:white;opacity: .85}
-.nav > li > a{height:111px; width: 125px;padding:0;line-height: 111px;font-size:18px;color: white;}
+.nav > li > a{height:111px; width: 125px;padding:0;line-height: 121px;font-size:18px;color: white;}
 .navbar-default .navbar-nav>.active>a{background-color:white;}
 .navbar-brand img{width: 220px;}
 #home{background-image:url('../svg/menu/1.svg');background-repeat:no-repeat;background-size:contain;color: white;padding-left: 55px;}
